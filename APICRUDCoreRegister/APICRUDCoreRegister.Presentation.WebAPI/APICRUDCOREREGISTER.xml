@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APICRUDCoreRegister.Presentation.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserDeleteVM.idUser">
+            <summary>
+            User ID
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserGetVM.idUser">
+            <summary>
+            User ID
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserGetVM.idProfile">
+            <summary>
+            Profile ID
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserGetVM.name">
+            <summary>
+            Username
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserGetVM.email">
+            <summary>
+            E-mail
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserGetVM.isActive">
+            <summary>
+            Is active?
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserPostVM.idProfile">
+            <summary>
+            Profile ID
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserPostVM.name">
+            <summary>
+            Username
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserPostVM.email">
+            <summary>
+            E-mail
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserPostVM.password">
+            <summary>
+            Password
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserPostVM.isActive">
+            <summary>
+            Is active?
+            </summary>
+        </member>
+        <member name="P:APICRUDCoreRegister.Presentation.WebAPI.Models.VM.UserPutVM.idUser">
+            <summary>
+            User ID
+            </summary>
+        </member>
+        <member name="T:APICRUDCoreRegister.Presentation.WebAPI.SwaggerDocs.Attributes.SwaggerProducesAttribute">
+            <summary>
+            SwaggerResponseContentTypeAttribute
+            </summary>
+        </member>
+    </members>
+</doc>
