@@ -26,10 +26,18 @@ Simple CRUD example by using .Net Core with DDD structure, Swagger, FluentValida
 
 ## DDD Structure
 
+- Solution:
+
 ![Alt Text](/Docs/DDD-0.PNG)
+
+- Presentation Layer:
 
 ![Alt Text](/Docs/DDD-1.PNG)
 
+- Domain Layer:
+
 ![Alt Text](/Docs/DDD-2.PNG)
+
+- Infra Layer:
 
 ![Alt Text](/Docs/DDD-3.PNG)
