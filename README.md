@@ -7,6 +7,7 @@ Simple CRUD example by using .Net Core with DDD structure, Swagger, FluentValida
 - .Net Core 2.2
 - Swagger
 - FluentValidation
+- AutoMapper
 - Entity Framework Core
 - MySQL Database
 
