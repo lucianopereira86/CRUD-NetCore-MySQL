@@ -1,6 +1,6 @@
 # CRUD-NetCore-MySQL
 
-Simple CRUD example by using .Net Core with DDD structure, Swagger, FluentValidation, Entity Framework Core and MySQL Connection.
+Simple CRUD example by using .Net Core with DDD structure, Swagger, FluentValidation, AutoMapper, Entity Framework Core and MySQL Connection.
 
 ## Technologies:
 
